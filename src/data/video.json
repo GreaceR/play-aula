@@ -1,0 +1,47 @@
+[
+  {
+    "id": "videj-01",
+    "titulo": "Isabel Allende",
+    "descripcion": "La voz de la memoria y la imaginación. Es una de las escritoras más reconocidas de habla hispana, autora de novelas como La casa de los espíritus.",
+    "imagenPortada": "https://images.unsplash.com/photo-1549887534-1541e9326642?w=500",
+    "urlVideo":"https://demo.unified-streaming.com/kaltura/the-secret-life-of-pets.ism/.m3u8",
+    "categoria":"Biografia",
+    "duracion": "3min 30seg"
+  },
+  {
+    "id": "videj-02",
+    "titulo": "Costumbres y celebraciones de Latinoamérica",
+    "descripcion": "Un recorrido por tradiciones y festividades que reflejan la diversidad cultural de la región.",
+    "imagenPortada": "https://images.unsplash.com/photo-1587595421264-0acbabf39c3e?w=500",
+    "urlVideo":"https://demo.unified-streaming.com/kaltura/the-secret-life-of-pets.ism/.m3u8",
+    "categoria":"El mundo y los humanos",
+    "duracion": "5min 25seg"
+  },
+  {
+    "id": "videj-03",
+    "titulo": "Bióloga",
+    "descripcion": "Exploradora de la vida. Estudia los seres vivos y los ecosistemas para comprender cómo funciona la naturaleza y proteger la biodiversidad.",
+    "imagenPortada": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=500",
+    "urlVideo" : "https://demo.unified-streaming.com/kaltura/the-secret-life-of-pets.ism/.m3u8",
+    "categoria": "Entrevistas a profesionales",
+    "duracion":"6min 17 seg"
+  },
+  {
+    "id":"videj-04",
+    "titulo":"¿Cómo evitar lesiones al correr?",
+    "descripcion": "Correr de forma inteligente. La técnica, el descanso y una progresión adecuada son claves para prevenir lesiones y mejorar el rendimiento.",
+    "imagenPortada": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?w=500",
+    "urlVideo":"https://demo.unified-streaming.com/kaltura/the-secret-life-of-pets.ism/.m3u8",
+    "categoria": "Ciencia y vida por el mundo",
+    "duracion":"1min 42seg"
+  },
+  {
+    "id":"videj-05",
+    "titulo":"Agustín Ryder",
+    "descripcion": "Ciclista chileno que ha destacado en distintas competencias y campeonatos. Comparte su pasión por el deporte, la perseverancia y el esfuerzo detrás de cada logro.",
+    "imagenPortada": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?w=500",
+    "urlVideo":"https://demo.unified-streaming.com/kaltura/the-secret-life-of-pets.ism/.m3u8",
+    "categoria": "Historias humanas",
+    "duracion":"3min 53seg" 
+  }    
+]
